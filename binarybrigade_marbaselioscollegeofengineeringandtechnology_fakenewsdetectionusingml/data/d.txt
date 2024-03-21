@@ -1,0 +1,3 @@
+The sample dataset on which the linear regression model (linear_model_def.pkl) is based on found from the link here
+
+https://onlineacademiccommunity.uvic.ca/isot/wp-content/uploads/sites/7295/2023/03/News-_dataset.zip --directory-prefix=data/
